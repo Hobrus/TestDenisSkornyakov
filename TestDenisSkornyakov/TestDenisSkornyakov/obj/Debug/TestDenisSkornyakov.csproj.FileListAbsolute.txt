@@ -1,0 +1,10 @@
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\bin\Debug\TestDenisSkornyakov.exe.config
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\bin\Debug\TestDenisSkornyakov.exe
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\bin\Debug\TestDenisSkornyakov.pdb
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\obj\Debug\TestDenisSkornyakov.csprojResolveAssemblyReference.cache
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\obj\Debug\TestDenisSkornyakov.Form1.resources
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\obj\Debug\TestDenisSkornyakov.Properties.Resources.resources
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\obj\Debug\TestDenisSkornyakov.csproj.GenerateResource.Cache
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\obj\Debug\TestDenisSkornyakov.csproj.CoreCompileInputs.cache
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\obj\Debug\TestDenisSkornyakov.exe
+C:\Users\Хобрус\source\repos\TestDenisSkornyakov\TestDenisSkornyakov\obj\Debug\TestDenisSkornyakov.pdb
